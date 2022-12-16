@@ -51,12 +51,12 @@ st.sidebar.markdown( '### Powered by Pablo Carvalho' )
 #image_path = 'images\\'
 image = Image.open( 'cover_fome_zero_2.png' )
 st.image( image, width=600,use_column_width='None')
-st.write('<h1 style=\'text-align: right; color: #101820;\'>FOME ZERO Growth Dashboard 📈', unsafe_allow_html=True)
+st.write('<h1 style=\'text-align: right; color: #101820;\'>FOME ZERO Marks Dashboard 📈', unsafe_allow_html=True)
 
 st.markdown(
     """
-    Growth Dashboard foi construído para acompanhar as métricas de crescimento e desempenho  dos Restaurantes.
-    ### Como utilizar esse Growth Dashboard?
+    Marks Dashboard foi construído para acompanhar as métricas de crescimento e desempenho  dos Restaurantes.
+    ### Como utilizar esse Marks Dashboard?
     - Visão Geral:
         - Apresenta as marcas atuais da empresa com relação a números absolutos de parceiros, avaliações e atuação geográfica.
     - Visão Países:
