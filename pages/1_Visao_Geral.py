@@ -1,12 +1,11 @@
 #===================================
 #Libraries
 #===================================
-
+!pip install inflection
 import csv
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import inflection
 import folium
 from haversine import haversine
 import streamlit as st
