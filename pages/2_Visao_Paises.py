@@ -1,7 +1,7 @@
 #===================================
 #Libraries
 #===================================
-!pip install inflection
+pip install inflection
 
 import csv
 import pandas as pd
