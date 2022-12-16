@@ -1,7 +1,6 @@
 #===================================
 #Libraries
 #===================================
-pip install inflection
 import csv
 import pandas as pd
 import plotly.express as px
